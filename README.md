@@ -1,3 +1,7 @@
-# Deep_Learning_Project
+# CIFAKE: Detección de Imágenes Generadas por IA
 
-Brayan Santiago Ramirez Silva , Ingenieria de Sistemas
+## Estudiantes
+
+* Camilo Benavides Ramirez
+* Brayan Santiago Ramirez Silva
+* Mariana Velásquez Velásquez
