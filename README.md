@@ -4,7 +4,7 @@ Proyecto de **Deep Learning** que entrena una Red Neuronal Convolucional (CNN) p
 
 ## 🎥 Video de presentación
 
-> **[▶ Enlace al video de presentación en YouTube]()**
+> **[▶ Enlace al video de presentación en YouTube](https://www.youtube.com/watch?v=5t-ifwUxIcY)**
 
 ## Descripción
 
