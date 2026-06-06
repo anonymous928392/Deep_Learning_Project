@@ -1,0 +1,13 @@
+# Modelos entrenados (artefactos pesados, se regeneran con el notebook 03)
+*.keras
+*.h5
+modelo_cifake.keras
+
+# Cache de Python / Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Datos descargados (se obtienen con kagglehub)
+*.zip
+*.archive
